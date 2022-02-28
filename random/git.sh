@@ -6,7 +6,7 @@ c=$((RANDOM%89+10));
 	echo $c
 d=$((RANDOM%89+10));
 	echo $d
-e=$((RANDOM%89+10));
+f=$((RANDOM%89+10));
 	echo $e
 x=$(($a+$b+$c+$d+$e));
 
