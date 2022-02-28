@@ -13,4 +13,4 @@ x=$(($a+$b+$c+$d+$e));
 y=$((($a+$b+$c+$d+$e)/5)) ;
 	echo $x "Sum"
 	echo $y "Average"
-y=$((($a+$b+$c+$d+$e)/5)) ;
+y=
